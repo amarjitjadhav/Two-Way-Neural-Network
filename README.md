@@ -1,5 +1,6 @@
-# Two-Way-Neural-Network
+# 1. Two-Way-Neural-Network , 2. Naive Bayes
 
+# Two Two-Way-Neural-Network
 In this Project I have implemented a two-layer neural network (i.e, one hidden-layer) to perform the handwritten digit recognition task
 
 # The dataset for this task is the MNIST dataset
@@ -18,3 +19,11 @@ In this Project I have implemented a two-layer neural network (i.e, one hidden-l
     f) mnist_train.csv
   2. Place above files in current diectory as prog.py
   3. Run prog.py -> python prog.py
+
+# Niave Bayes 
+
+In this programming assignment I have written a Naïve Bayes classifier for
+classification of spam base database, which consist of spam and non-spam
+mails. The classification or the labeling of the classes is as follows :
+• spam mail class is 1
+• non-spam mail is class 0 is classic as 1
